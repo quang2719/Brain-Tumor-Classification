@@ -1,6 +1,10 @@
 # 🧠 Brain Tumor Classification
 
-![Brain Tumor Image](https://upload.wikimedia.org/wikipedia/commons/2/25/Brain_MRI_image.jpg)
+<div align="center">
+<a href="https://github.com/quang2719/Brain-Tumor-Classification/blob/main/IMG_readme_file/z5755723477758_687135362cea0b1b2f9f2fec9ed4fd3f.jpg?raw=true" target="_blank">
+<img src="https://github.com/quang2719/Brain-Tumor-Classification/blob/main/IMG_readme_file/z5755723477758_687135362cea0b1b2f9f2fec9ed4fd3f.jpg?raw=true" alt="My background" style="max-height: 300px !important;">
+</a>
+</div>
 
 ## 📝 Project Description
 
