@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://github.com/quang2719/Brain-Tumor-Classification/blob/main/IMG_readme_file/z5755723477758_687135362cea0b1b2f9f2fec9ed4fd3f.jpg?raw=true" target="_blank">
-<img src="https://github.com/quang2719/Brain-Tumor-Classification/blob/main/IMG_readme_file/z5755723477758_687135362cea0b1b2f9f2fec9ed4fd3f.jpg?raw=true" alt="My background" style="max-height: 300px !important;">
+<img src="https://github.com/quang2719/Brain-Tumor-Classification/blob/main/IMG_readme_file/z5755723477758_687135362cea0b1b2f9f2fec9ed4fd3f.jpg?raw=true" alt="My background" heigh ="30">
 </a>
 </div>
 
