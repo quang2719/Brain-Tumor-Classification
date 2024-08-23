@@ -1,8 +1,8 @@
 # 🧠 Brain Tumor Classification
 
 <div align="center">
-<a href="https://github.com/quang2719/Brain-Tumor-Classification/blob/main/IMG_readme_file/z5755723477758_687135362cea0b1b2f9f2fec9ed4fd3f.jpg?raw=true" target="_blank">
-<img src="https://github.com/quang2719/Brain-Tumor-Classification/blob/main/IMG_readme_file/z5755723477758_687135362cea0b1b2f9f2fec9ed4fd3f.jpg?raw=true" alt="My background" heigh ="30">
+<a href="https://raw.githubusercontent.com/quang2719/Brain-Tumor-Classification/main/IMG_readme_file/new_background_icon.ico" target="_blank">
+<img src="https://raw.githubusercontent.com/quang2719/Brain-Tumor-Classification/main/IMG_readme_file/new_background_icon.ico" alt="My background" style="max-width: 300px;">
 </a>
 </div>
 
