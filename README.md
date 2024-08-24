@@ -8,7 +8,7 @@
 
 ## 📝 Project Description
 
-This project aims to classify brain tumor images using Convolutional Neural Networks (CNNs). The project involves creating, training, and optimizing models to improve accuracy while addressing overfitting.
+This project aims to classify brain tumor images using Convolutional Neural Networks (CNNs). The project involves creating, training, and optimizing models to improve accuracy while addressing overfitting. 
 
 ## 📁 Dataset
 
@@ -53,8 +53,7 @@ To test, simply change the value in the `load_model()` method between these two 
 
 The following libraries and tools were used in this project:
 
-* ![OpenCV](https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg) `cv2` 
-* ![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg) `numpy`
-* ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg) `tensorflow`
-* ![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) `sklearn`
-* ![Pillow](https://upload.wikimedia.org/wikipedia/commons/e/e0/Python-logo-notext.svg) `PIL` 
+* ![OpenCV](https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg)
+* ![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)
+* ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg)
+* ![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
