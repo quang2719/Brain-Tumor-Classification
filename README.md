@@ -11,7 +11,7 @@
 This repository contains Jupyter Notebooks exploring brain tumor classification using various deep learning techniques.
 
 ## Notebooks 📓
-
+*I recommend running notebook nb1_training_original_model first as it contains specific instructions for the other notebooks.*
 * **nb0_predict_new_img.ipynb** 🚀: Use this notebook to run predictions on new, unseen samples.
 * **nb1_training_original_model.ipynb** 🥇: The initial notebook with the core model implementation. This will be continuously updated and serves as a guide to the other notebooks.
 * **nb2_optimization_model.ipynb** 🏋️‍♀️: Explores techniques like regularization to address overfitting issues in the baseline model.
