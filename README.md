@@ -8,7 +8,17 @@
 
 ## 📝 Project Description
 
-This project aims to classify brain tumor images using Convolutional Neural Networks (CNNs). The project involves creating, training, and optimizing models to improve accuracy while addressing overfitting. 
+This repository contains Jupyter Notebooks exploring brain tumor classification using various deep learning techniques.
+
+## Notebooks 📓
+
+* **nb0_predict_new_img.ipynb** 🚀: Use this notebook to run predictions on new, unseen samples.
+* **nb1_training_original_model.ipynb** 🥇: The initial notebook with the core model implementation. This will be continuously updated and serves as a guide to the other notebooks.
+* **nb2_optimization_model.ipynb** 🏋️‍♀️: Explores techniques like regularization to address overfitting issues in the baseline model.
+* **nb3_compare_with_other_model.ipynb** 🆚: Compares the performance of our model against established neural networks like LeNet-5, AlexNet, and MobileNet.
+* **nb4_using_trainsfer_learning.ipynb** 🔄: Leverages transfer learning to fine-tune the VGG16 network on our brain tumor dataset.
+
+**Note:** The number of notebooks may change in the future as the project evolves and incorporates feedback from my supervisor. Please refer to the individual notebooks for detailed information about each experiment.
 
 ## 📁 Dataset
 
@@ -16,31 +26,13 @@ The dataset used in this project was provided by my teacher, Mr. Hinh.
 
 ## 🏗️ Project Structure
 
-### 📂 Resources
-
-- **Dataset**: MRI images of brain tumors.
-- **Notebooks**: There are three Jupyter notebooks in this project.
-- **Models**: Two trained models are stored in the project for testing on new data:
-  - `BrainTumor_v1.keras` (Original Model)
-  - `BrainTumor_v2.keras` (Optimized Model)
-
-### 📓 Notebooks
-
-1. **`training_original_model.ipynb`**:
-   - This notebook builds, trains, and evaluates a neural network model provided by my teacher using the dataset. The model achieved 86.7% accuracy on the test set, but it suffered from overfitting.
-
-2. **`model_comparison.ipynb`**:
-   - In this notebook, the original model is compared with other well-known neural networks such as Lenet5, AlexNet, and MobileNet. The original model showed the highest accuracy on the validation set but was still overfitting with 86.7% accuracy on the test set.
-
-3. **`optimized_model.ipynb`**:
-   - This notebook contains the optimized version of the original model. Regularization techniques were applied, and the model was simplified to reduce overfitting. The optimized model achieved 94.5% accuracy on the test set.
-
 ### 🧪 Model Testing
 
 Users can test new data using the stored models. Open the `predict_new_img.ipynb` notebook, and load either:
 
 - **`BrainTumor_v1.keras`**: The original model.
 - **`BrainTumor_v2.keras`**: The optimized model.
+- **`BrainTumor_v3.keras`**: The transfer learning model.
 
 To test, simply change the value in the `load_model()` method between these two models.
 
@@ -49,11 +41,7 @@ To test, simply change the value in the `load_model()` method between these two 
 * **First Model**: 86.75% accuracy (overfitting)
 * **Second Model**: 94.5% accuracy (optimized)
 
-## 🛠️ Dependencies
+## 🛠️ Contact
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/qq2719/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quang-nv-ptit/)
 
-The following libraries and tools were used in this project:
-
-* ![OpenCV](https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg)
-* ![NumPy](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)
-* ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg)
-* ![scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
